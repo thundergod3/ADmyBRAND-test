@@ -1,0 +1,12 @@
+{
+  "name": "ADmyBRAND",
+  "displayName": "ADmyBRAND",
+  "expo": {
+    "name": "ADmyBRAND",
+    "slug": "ADmyBRAND",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
